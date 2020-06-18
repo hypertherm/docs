@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Document units='english' cutcharts='N' template='4'><!--If a template isn't supplied, a default template will be used.-->
+<Document units='english' template='4'><!--If a template isn't supplied, a default template will be used.-->
   <Column name='cut_chart_type' omit='true'/><!--Omit an existing column.-->
   <Column name='kerf' width='300'><!--Modifying an existing column and change the width.-->
     <Cell color='255,0,0'/><!--Sets the background color of all cells in the column. `Columnname` is not required because the name of the column element is automatically used.-->
